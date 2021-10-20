@@ -1,5 +1,6 @@
-package abika.sinau.mvvm_todo_datastore
+package abika.sinau.mvvm_todo_datastore.ui.main
 
+import abika.sinau.mvvm_todo_datastore.R
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
